@@ -1,5 +1,8 @@
 # lodash
 
+
+:)
+
 [Site](https://lodash.com/) |
 [Docs](https://lodash.com/docs) |
 [FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide) |
